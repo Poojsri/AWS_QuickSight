@@ -2,8 +2,7 @@
 
 This project demonstrates how to use **Amazon QuickSight** for analyzing and visualizing the Netflix catalog dataset by connecting it to AWS services like **S3**.
 
-Screenshot 2024-10-15 105342.png
-![alt text](https://github.com/Poojsru/AWS_QuickSight/blob/main/QuickSightArch.png?raw=true)
+![alt text](https://github.com/Poojsri/AWS_QuickSight/blob/main/QuickSightArch.png?raw=true)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
